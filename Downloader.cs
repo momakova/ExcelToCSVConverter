@@ -14,7 +14,7 @@ public class Downloader
 
         // although it is not working with link given in task
         // this method works with excel example from microsoft site
-        url = "https://go.microsoft.com/fwlink/?LinkID=521962";
+        // url = "https://go.microsoft.com/fwlink/?LinkID=521962";
 
         // define random extension to prevent colision in a file name
         Random random = new Random();
