@@ -30,7 +30,8 @@ public class Excel
         wb1 = excel.Workbooks.Add();
         ws1 = wb1.Worksheets[1];
     }
-
+    
+    // go through excel and fill CSV
     public void ReadCell(int startR, int endR, int startC, int endC)
     {
         //defining parrameters
