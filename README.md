@@ -8,7 +8,7 @@ App contains 3 separate classes - Main (Program), Excel and Downloader
 # Issues
 I had major problem with downloading Excel file from site, so I added possibility to run code with link from microsoft site where xlsx file example is downloaded.
 Just delete comment sign from line 17:
-"url = "https://go.microsoft.com/fwlink/?LinkID=521962";"
+// url = "https://go.microsoft.com/fwlink/?LinkID=521962";
 in Downloader class.
 
 # Backup
