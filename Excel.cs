@@ -31,7 +31,7 @@ public class Excel
         ws1 = wb1.Worksheets[1];
     }
 
-    public string ReadCell(int startR, int endR, int startC, int endC)
+    public void ReadCell(int startR, int endR, int startC, int endC)
     {
         //defining parrameters
         int r = startR;
@@ -64,7 +64,6 @@ public class Excel
             c1 = 1;
             r1++;
         }
-        return "";
     }
 
 
