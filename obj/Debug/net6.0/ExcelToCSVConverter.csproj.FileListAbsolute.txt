@@ -1,0 +1,17 @@
+C:\Users\Patron\source\repos\ExcelToCSVConverter\bin\Debug\net6.0\ExcelToCSVConverter.exe
+C:\Users\Patron\source\repos\ExcelToCSVConverter\bin\Debug\net6.0\ExcelToCSVConverter.deps.json
+C:\Users\Patron\source\repos\ExcelToCSVConverter\bin\Debug\net6.0\ExcelToCSVConverter.runtimeconfig.json
+C:\Users\Patron\source\repos\ExcelToCSVConverter\bin\Debug\net6.0\ExcelToCSVConverter.dll
+C:\Users\Patron\source\repos\ExcelToCSVConverter\bin\Debug\net6.0\ExcelToCSVConverter.pdb
+C:\Users\Patron\source\repos\ExcelToCSVConverter\obj\Debug\net6.0\ExcelToCSVConverter.csproj.AssemblyReference.cache
+C:\Users\Patron\source\repos\ExcelToCSVConverter\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Patron\source\repos\ExcelToCSVConverter\obj\Debug\net6.0\ExcelToCSVConverter.csproj.ResolveComReference.cache
+C:\Users\Patron\source\repos\ExcelToCSVConverter\obj\Debug\net6.0\ExcelToCSVConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patron\source\repos\ExcelToCSVConverter\obj\Debug\net6.0\ExcelToCSVConverter.AssemblyInfoInputs.cache
+C:\Users\Patron\source\repos\ExcelToCSVConverter\obj\Debug\net6.0\ExcelToCSVConverter.AssemblyInfo.cs
+C:\Users\Patron\source\repos\ExcelToCSVConverter\obj\Debug\net6.0\ExcelToCSVConverter.csproj.CoreCompileInputs.cache
+C:\Users\Patron\source\repos\ExcelToCSVConverter\obj\Debug\net6.0\ExcelToCSVConverter.dll
+C:\Users\Patron\source\repos\ExcelToCSVConverter\obj\Debug\net6.0\refint\ExcelToCSVConverter.dll
+C:\Users\Patron\source\repos\ExcelToCSVConverter\obj\Debug\net6.0\ExcelToCSVConverter.pdb
+C:\Users\Patron\source\repos\ExcelToCSVConverter\obj\Debug\net6.0\ExcelToCSVConverter.genruntimeconfig.cache
+C:\Users\Patron\source\repos\ExcelToCSVConverter\obj\Debug\net6.0\ref\ExcelToCSVConverter.dll
