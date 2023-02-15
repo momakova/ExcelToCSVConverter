@@ -56,6 +56,8 @@ public class Excel
             for (; c <= columns; c++)
             {
                 Console.Write(",");
+                ws1.Cells[r1, c1].Value = null;
+                c1++;
             }
             Console.Write("\n");
             c = startC;
